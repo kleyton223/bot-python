@@ -1,0 +1,1 @@
+print("Funcionando no Easypanel!")
